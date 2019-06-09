@@ -1,4 +1,4 @@
-# JavaScript Clock Project
+# JavaScript, CSS - Clock Project
 
 - Started Coding: December 2018.
 
